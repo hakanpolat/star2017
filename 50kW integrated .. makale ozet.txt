@@ -1,0 +1,29 @@
+PAGE 345-346
+**GITHUB'I DENEMEK AMAÇLI YÜKLENMISTIR. DÜZENLEME YAPILACAKTIR**
+
+In this article it is explained how the machine can be affected 
+when it is integrated. Then during the introduction it is explained how
+the shape will be ( circular and the power electronics in a ring shape.).
+
+Having a high power density and fault tolerance is essential for aerospace industry.
+
+-System integration ( combining motor and power electronics) 
+1) reduces weight and volume
+
+2) If the loss density is kept constant the temperature will increase.
+
+
+EMI filter: Filters the electromagnetic disturtion from the lines.
+
+
+??? We give a 540 VDC but we are sending it to phases. Does full bridge generate oscillation.???
+
+
+In a permanent magnet design it is harder to control the excitation. Therefore it is less fault 
+tolerant.
+In case of fault the H field of the magnets may cause unwanted current at the windings 
+which may lead to higher current and aging of the system.
+
+
+
+TO BE CONTINUED
